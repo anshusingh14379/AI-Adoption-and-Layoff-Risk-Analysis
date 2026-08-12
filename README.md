@@ -411,6 +411,7 @@ The goal is not simply to identify jobs at risk, but to **prepare employees for 
 
 # 📁 Repository Structure
 
+```text
 AI-Adoption-and-Layoff-Risk-Analysis/
 │
 ├── data/
@@ -430,7 +431,6 @@ AI-Adoption-and-Layoff-Risk-Analysis/
 │       └── page5-project-overview.png
 │
 └── README.md
-
 ---
 
 # 🚀 Project Outcome
