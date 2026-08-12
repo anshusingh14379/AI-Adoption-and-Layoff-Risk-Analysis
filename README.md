@@ -53,7 +53,7 @@ The final Power BI report contains **5 pages**, moving from project context to b
 
 Introduces the business problem, project objective, and dashboard navigation.
 
-![Project Overview]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\project_overview.png")
+![Project Overview](https://github.com/anshusingh14379/AI-Adoption-and-Layoff-Risk-Analysis/blob/main/Power%20BI/Images/project_overview.png)
 
 ---
 
@@ -72,7 +72,7 @@ Provides a high-level view of workforce risk and the major business findings.
 - Reskilling Priority
 - Key Insights
 
-![Executive Summary]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\executive_summary.png")
+![Executive Summary](https://github.com/anshusingh14379/AI-Adoption-and-Layoff-Risk-Analysis/blob/main/Power%20BI/Images/executive_summary.png)
 
 ---
 
@@ -89,7 +89,7 @@ Focuses on where workforce risk is concentrated across employee and job characte
 - Risk by Industry
 - Workforce Risk & Exposure Summary
 
-![Workforce Risk Analysis]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\workforce_risk_analysis.png")
+![Workforce Risk Analysis](https://github.com/anshusingh14379/AI-Adoption-and-Layoff-Risk-Analysis/blob/main/Power%20BI/Images/workforce_risk_analysis.png)
 
 ---
 
@@ -110,7 +110,7 @@ Examines AI adoption, AI tools, task automation, and training across the workfor
 - AI Training by Job Level
 - AI & Workforce Risk Summary
 
-![AI Adoption & Automation]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\ai_adoption.png")
+![AI Adoption & Automation](https://github.com/anshusingh14379/AI-Adoption-and-Layoff-Risk-Analysis/blob/main/Power%20BI/Images/ai_adoption.png)
 
 ---
 
@@ -129,7 +129,7 @@ Presents the machine learning results and converts them into business actions.
 - Confusion Matrix
 - Recommended Actions
 
-![ML Insights & Strategic Recommendations]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\ml_insights.png")
+![ML Insights & Strategic Recommendations](https://github.com/anshusingh14379/AI-Adoption-and-Layoff-Risk-Analysis/blob/main/Power%20BI/Images/ml_insights.png)
 
 ---
 
