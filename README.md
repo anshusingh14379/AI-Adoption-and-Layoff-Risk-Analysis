@@ -431,6 +431,7 @@ AI-Adoption-and-Layoff-Risk-Analysis/
 │       └── page5-project-overview.png
 │
 └── README.md
+```
 ---
 
 # 🚀 Project Outcome
