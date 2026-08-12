@@ -411,27 +411,23 @@ The goal is not simply to identify jobs at risk, but to **prepare employees for 
 
 # 📁 Repository Structure
 
-```text
-AI-Adoption-Layoff-Risk-Analysis/
+AI-Adoption-and-Layoff-Risk-Analysis/
 │
 ├── data/
-│   └── AI_Impact_Jobs_Layoff_Risk_Dataset.csv
 │
 ├── python/
-│   └── AI_Adoption_Layoff_Risk_Analysis.ipynb
 │
 ├── sql/
-│   └── SQL_Questions.docx
 │
 ├── powerbi/
-│   └── AI_Adoption_Layoff_Risk_Analysis.pbix
-│
-├── images/
-│   ├── page1-project-overview.png
-│   ├── page2-executive-summary.png
-│   ├── page3-workforce-risk-analysis.png
-│   ├── page4-ai-adoption.png
-│   └── page5-ml-insights.png
+│   ├── AI_Adoption_Layoff_Risk_Analysis.pbix
+│   │
+│   └── images/
+│       ├── page1-executive-summary.png
+│       ├── page2-workforce-risk.png
+│       ├── page3-ai-adoption.png
+│       ├── page4-ml-insights.png
+│       └── page5-project-overview.png
 │
 └── README.md
 
