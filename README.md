@@ -53,8 +53,7 @@ The final Power BI report contains **5 pages**, moving from project context to b
 
 Introduces the business problem, project objective, and dashboard navigation.
 
-![Project Overview](<img width="1270" height="749" alt="project_overview" src="https://github.com/user-attachments/assets/30cba658-9c47-4afb-8fa7-03ad9fe23ad0" />
-)
+![Project Overview]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\project_overview.png")
 
 ---
 
@@ -73,8 +72,7 @@ Provides a high-level view of workforce risk and the major business findings.
 - Reskilling Priority
 - Key Insights
 
-![Executive Summary](<img width="1270" height="745" alt="executive_summary" src="https://github.com/user-attachments/assets/3aba9248-8cb9-4ec3-8113-f4b2599be6f9" />
-)
+![Executive Summary]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\executive_summary.png")
 
 ---
 
@@ -91,8 +89,7 @@ Focuses on where workforce risk is concentrated across employee and job characte
 - Risk by Industry
 - Workforce Risk & Exposure Summary
 
-![Workforce Risk Analysis](<img width="1279" height="749" alt="workforce_risk_analysis" src="https://github.com/user-attachments/assets/c3aa4be8-9f43-41cf-ba31-f506c2e09b15" />
-)
+![Workforce Risk Analysis]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\workforce_risk_analysis.png")
 
 ---
 
@@ -113,8 +110,7 @@ Examines AI adoption, AI tools, task automation, and training across the workfor
 - AI Training by Job Level
 - AI & Workforce Risk Summary
 
-![AI Adoption & Automation](<img width="1270" height="740" alt="ai_adoption" src="https://github.com/user-attachments/assets/5f5ddc93-a237-4542-b80b-464768cf329e" />
-)
+![AI Adoption & Automation]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\ai_adoption.png")
 
 ---
 
@@ -133,8 +129,7 @@ Presents the machine learning results and converts them into business actions.
 - Confusion Matrix
 - Recommended Actions
 
-![ML Insights & Strategic Recommendations](<img width="1272" height="747" alt="ml_insights" src="https://github.com/user-attachments/assets/a60932ac-cf6b-4768-86e2-3615879849a1" />
-)
+![ML Insights & Strategic Recommendations]("C:\Users\Anshu\OneDrive\Pictures\Screenshots\ml_insights.png")
 
 ---
 
